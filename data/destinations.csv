@@ -1,0 +1,16 @@
+destination,type,description,cost_level,best_season,avg_rating,cuisine,attractions_count,geography
+Goa,beach,"Pristine beaches, vibrant nightlife, water sports",3,winter,4.5,Portuguese-Indian,250,coastal
+Manali,mountain,"Snow-capped Himalayan peaks, adventure sports",2,summer,4.3,Himachali,180,himalayan
+Jaipur,culture,Pink city with magnificent royal palaces,2,winter,4.6,Rajasthani,200,desert
+Varanasi,spiritual,"Ancient ghats, spiritual ceremonies, temples",1,all,4.4,North Indian,150,riverine
+Kerala,backwater,"Serene houseboats, lush greenery, ayurveda",3,winter,4.7,South Indian,280,tropical
+Rishikesh,adventure,"Yoga capital, river rafting, spiritual retreat",2,summer,4.5,North Indian,160,himalayan
+Udaipur,heritage,"City of lakes, royal palaces, romantic setting",3,winter,4.6,Rajasthani,220,lake
+Shimla,mountain,Colonial hill station with scenic toy train,2,summer,4.2,Himachali,170,himalayan
+Darjeeling,mountain,"Tea gardens, toy train, sunrise views",2,all,4.4,Bengali-Tibetan,190,himalayan
+Hampi,archaeological,"Ancient ruins, temple complexes, boulders",2,winter,4.5,South Indian,140,heritage
+Leh-Ladakh,adventure,"High-altitude desert, monasteries, trekking",3,summer,4.8,Tibetan,200,highland
+Ooty,mountain,"Hill station, tea estates, botanical gardens",2,summer,4.3,Tamil,160,nilgiri
+Agra,heritage,"Taj Mahal, Mughal architecture, history",2,winter,4.7,Mughlai,180,heritage
+Mumbai,urban,"Bollywood, beaches, street food, nightlife",3,winter,4.4,Multi-cuisine,300,metropolitan
+Delhi,culture,"Historical monuments, street food, museums",2,winter,4.3,Multi-cuisine,350,metropolitan

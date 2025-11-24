@@ -1,0 +1,12 @@
+{
+  "generated_at": "2025-11-24T21:51:24.881391",
+  "models": [
+    "clustering.pkl",
+    "collaborative_filtering.pkl",
+    "content_based.pkl",
+    "demand_forecast.pkl",
+    "demographic_filter.pkl",
+    "popularity.pkl",
+    "sentiment_model.pkl"
+  ]
+}

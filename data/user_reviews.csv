@@ -1,0 +1,842 @@
+user,destination,review,sentiment,helpful_count,verified_traveler
+user001,Shimla,Fantastic experience at Shimla. The cleanliness exceeded expectations.,positive,7,False
+user001,Mumbai,Decent accommodation. The activities was okay but nothing special.,neutral,49,False
+user001,Manali,Standard Manali visit. service was acceptable.,neutral,52,False
+user001,Agra,Amazing accommodation! The activities was absolutely wonderful. Highly recommend for families.,positive,92,True
+user001,Delhi,Overrated destination. scenery needs improvement.,negative,32,True
+user001,Hampi,Expected better scenery considering the hype.,negative,11,True
+user002,Udaipur,Beautiful culture and excellent cleanliness. Perfect for solo travelers.,positive,41,True
+user002,Manali,Amazing scenery! The service was absolutely wonderful. Highly recommend for families.,positive,7,True
+user002,Delhi,Fantastic experience at Delhi. The hospitality exceeded expectations.,positive,15,True
+user002,Varanasi,Standard Varanasi visit. activities was acceptable.,neutral,25,True
+user002,Shimla,Standard Shimla visit. views was acceptable.,neutral,56,True
+user002,Kerala,Beautiful service and excellent cleanliness. Perfect for couples.,positive,99,True
+user003,Delhi,Average experience. scenery could be better.,neutral,84,False
+user003,Shimla,Overrated destination. attractions needs improvement.,negative,55,False
+user003,Udaipur,Amazing cleanliness! The activities was absolutely wonderful. Highly recommend for couples.,positive,27,True
+user003,Ooty,Standard Ooty visit. activities was acceptable.,neutral,61,True
+user003,Agra,Average experience. food could be better.,neutral,47,True
+user003,Varanasi,Disappointing cleanliness. The culture was not up to the mark.,negative,98,False
+user003,Hampi,Amazing cleanliness! The service was absolutely wonderful. Highly recommend for couples.,positive,68,True
+user003,Leh-Ladakh,Poor views and crowded attractions. Not recommended for solo travelers.,negative,4,True
+user003,Darjeeling,Outstanding Darjeeling visit. cleanliness was incredible.,positive,70,True
+user003,Kerala,Decent hospitality. The activities was okay but nothing special.,neutral,50,True
+user003,Jaipur,Fantastic experience at Jaipur. The accommodation exceeded expectations.,positive,60,True
+user003,Mumbai,Average experience. food could be better.,neutral,67,True
+user004,Delhi,Standard Delhi visit. facilities was acceptable.,neutral,2,True
+user004,Rishikesh,Amazing cleanliness! The service was absolutely wonderful. Highly recommend for adventure seekers.,positive,55,True
+user004,Goa,Overrated destination. scenery needs improvement.,negative,62,True
+user004,Jaipur,Amazing cleanliness! The ambiance was absolutely wonderful. Highly recommend for families.,positive,16,True
+user004,Shimla,Amazing attractions! The ambiance was absolutely wonderful. Highly recommend for solo travelers.,positive,41,True
+user004,Manali,Amazing accommodation! The views was absolutely wonderful. Highly recommend for families.,positive,81,False
+user004,Kerala,Fantastic experience at Kerala. The attractions exceeded expectations.,positive,71,True
+user004,Ooty,Overrated destination. accommodation needs improvement.,negative,57,False
+user004,Agra,Standard Agra visit. ambiance was acceptable.,neutral,25,True
+user004,Leh-Ladakh,Standard Leh-Ladakh visit. facilities was acceptable.,neutral,71,False
+user004,Varanasi,Beautiful activities and excellent accommodation. Perfect for solo travelers.,positive,31,True
+user005,Varanasi,Expected better scenery considering the hype.,negative,42,False
+user005,Agra,Amazing food! The culture was absolutely wonderful. Highly recommend for families.,positive,53,True
+user005,Manali,Beautiful views and excellent food. Perfect for adventure seekers.,positive,45,True
+user005,Rishikesh,Outstanding Rishikesh visit. food was incredible.,positive,51,True
+user005,Hampi,Standard Hampi visit. service was acceptable.,neutral,55,True
+user005,Shimla,Average experience. cleanliness could be better.,neutral,54,True
+user006,Kerala,Outstanding Kerala visit. cleanliness was incredible.,positive,86,True
+user006,Manali,Standard Manali visit. ambiance was acceptable.,neutral,20,True
+user006,Udaipur,Decent attractions. The culture was okay but nothing special.,neutral,9,False
+user006,Mumbai,Amazing attractions! The activities was absolutely wonderful. Highly recommend for adventure seekers.,positive,58,True
+user006,Darjeeling,Beautiful activities and excellent scenery. Perfect for couples.,positive,6,True
+user006,Jaipur,Overrated destination. hospitality needs improvement.,negative,49,True
+user007,Ooty,Overrated destination. scenery needs improvement.,negative,81,True
+user007,Delhi,Disappointing food. The service was not up to the mark.,negative,88,True
+user007,Leh-Ladakh,Beautiful ambiance and excellent scenery. Perfect for adventure seekers.,positive,85,True
+user007,Goa,Decent cleanliness. The ambiance was okay but nothing special.,neutral,94,False
+user007,Darjeeling,Decent scenery. The views was okay but nothing special.,neutral,20,False
+user007,Agra,Outstanding Agra visit. food was incredible.,positive,39,True
+user007,Manali,Average experience. scenery could be better.,neutral,99,True
+user007,Hampi,Overrated destination. cleanliness needs improvement.,negative,49,True
+user008,Rishikesh,Decent cleanliness. The views was okay but nothing special.,neutral,62,True
+user008,Udaipur,Standard Udaipur visit. activities was acceptable.,neutral,19,True
+user008,Kerala,Beautiful ambiance and excellent hospitality. Perfect for families.,positive,65,True
+user008,Hampi,Decent accommodation. The activities was okay but nothing special.,neutral,8,True
+user008,Jaipur,Disappointing attractions. The service was not up to the mark.,negative,0,True
+user008,Leh-Ladakh,Fantastic experience at Leh-Ladakh. The cleanliness exceeded expectations.,positive,46,False
+user008,Darjeeling,Overrated destination. accommodation needs improvement.,negative,54,True
+user008,Agra,Fantastic experience at Agra. The accommodation exceeded expectations.,positive,23,True
+user008,Delhi,Beautiful ambiance and excellent scenery. Perfect for couples.,positive,71,True
+user009,Udaipur,Overrated destination. attractions needs improvement.,negative,35,False
+user009,Leh-Ladakh,Average experience. hospitality could be better.,neutral,56,True
+user009,Darjeeling,Amazing food! The views was absolutely wonderful. Highly recommend for couples.,positive,16,True
+user009,Rishikesh,Fantastic experience at Rishikesh. The hospitality exceeded expectations.,positive,18,True
+user009,Varanasi,Expected better cleanliness considering the hype.,negative,54,True
+user009,Agra,Standard Agra visit. ambiance was acceptable.,neutral,32,True
+user009,Delhi,Poor service and crowded accommodation. Not recommended for couples.,negative,31,False
+user009,Shimla,Poor service and crowded food. Not recommended for adventure seekers.,negative,43,True
+user009,Ooty,Beautiful facilities and excellent attractions. Perfect for solo travelers.,positive,90,True
+user009,Hampi,Amazing cleanliness! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,21,True
+user009,Mumbai,Poor facilities and crowded scenery. Not recommended for solo travelers.,negative,31,False
+user009,Goa,Beautiful views and excellent cleanliness. Perfect for adventure seekers.,positive,89,False
+user010,Hampi,Fantastic experience at Hampi. The food exceeded expectations.,positive,92,True
+user010,Manali,Beautiful activities and excellent hospitality. Perfect for families.,positive,34,True
+user010,Agra,Fantastic experience at Agra. The scenery exceeded expectations.,positive,94,True
+user010,Darjeeling,Amazing attractions! The facilities was absolutely wonderful. Highly recommend for couples.,positive,65,False
+user010,Delhi,Outstanding Delhi visit. hospitality was incredible.,positive,95,True
+user010,Udaipur,Average experience. food could be better.,neutral,74,True
+user010,Rishikesh,Poor activities and crowded cleanliness. Not recommended for families.,negative,11,False
+user010,Varanasi,Poor culture and crowded hospitality. Not recommended for solo travelers.,negative,81,True
+user010,Mumbai,Expected better food considering the hype.,negative,64,True
+user011,Delhi,Expected better hospitality considering the hype.,negative,81,True
+user011,Ooty,Average experience. cleanliness could be better.,neutral,15,True
+user011,Udaipur,Disappointing cleanliness. The facilities was not up to the mark.,negative,29,True
+user011,Jaipur,Beautiful activities and excellent cleanliness. Perfect for adventure seekers.,positive,92,True
+user011,Shimla,Decent attractions. The views was okay but nothing special.,neutral,67,True
+user011,Mumbai,Amazing food! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,83,True
+user011,Goa,Disappointing hospitality. The service was not up to the mark.,negative,21,True
+user011,Agra,Beautiful culture and excellent cleanliness. Perfect for solo travelers.,positive,90,True
+user012,Jaipur,Poor facilities and crowded attractions. Not recommended for solo travelers.,negative,47,False
+user012,Agra,Fantastic experience at Agra. The food exceeded expectations.,positive,71,False
+user012,Hampi,Beautiful facilities and excellent accommodation. Perfect for solo travelers.,positive,31,False
+user012,Udaipur,Fantastic experience at Udaipur. The accommodation exceeded expectations.,positive,50,False
+user012,Delhi,Fantastic experience at Delhi. The hospitality exceeded expectations.,positive,35,True
+user012,Goa,Outstanding Goa visit. attractions was incredible.,positive,95,False
+user012,Kerala,Beautiful facilities and excellent accommodation. Perfect for couples.,positive,42,True
+user012,Mumbai,Standard Mumbai visit. activities was acceptable.,neutral,47,False
+user013,Ooty,Beautiful activities and excellent accommodation. Perfect for solo travelers.,positive,78,True
+user013,Darjeeling,Average experience. scenery could be better.,neutral,50,True
+user013,Varanasi,Decent attractions. The views was okay but nothing special.,neutral,75,False
+user013,Manali,Standard Manali visit. facilities was acceptable.,neutral,52,True
+user013,Hampi,Amazing cleanliness! The activities was absolutely wonderful. Highly recommend for couples.,positive,42,True
+user013,Mumbai,Fantastic experience at Mumbai. The scenery exceeded expectations.,positive,43,True
+user014,Kerala,Outstanding Kerala visit. hospitality was incredible.,positive,32,True
+user014,Udaipur,Fantastic experience at Udaipur. The food exceeded expectations.,positive,0,False
+user014,Manali,Decent scenery. The culture was okay but nothing special.,neutral,23,True
+user014,Varanasi,Disappointing attractions. The service was not up to the mark.,negative,86,True
+user014,Darjeeling,Amazing attractions! The views was absolutely wonderful. Highly recommend for families.,positive,71,True
+user014,Ooty,Amazing cleanliness! The activities was absolutely wonderful. Highly recommend for solo travelers.,positive,45,False
+user015,Agra,Amazing food! The service was absolutely wonderful. Highly recommend for adventure seekers.,positive,25,False
+user015,Udaipur,Fantastic experience at Udaipur. The scenery exceeded expectations.,positive,61,False
+user015,Mumbai,Outstanding Mumbai visit. attractions was incredible.,positive,18,True
+user015,Darjeeling,Beautiful culture and excellent accommodation. Perfect for couples.,positive,48,False
+user015,Jaipur,Expected better food considering the hype.,negative,91,True
+user015,Manali,Amazing accommodation! The facilities was absolutely wonderful. Highly recommend for families.,positive,8,False
+user016,Goa,Standard Goa visit. activities was acceptable.,neutral,90,True
+user016,Delhi,Fantastic experience at Delhi. The accommodation exceeded expectations.,positive,88,True
+user016,Darjeeling,Outstanding Darjeeling visit. scenery was incredible.,positive,7,True
+user016,Leh-Ladakh,Outstanding Leh-Ladakh visit. scenery was incredible.,positive,74,False
+user016,Ooty,Amazing hospitality! The culture was absolutely wonderful. Highly recommend for families.,positive,53,True
+user016,Shimla,Fantastic experience at Shimla. The food exceeded expectations.,positive,35,True
+user017,Shimla,Decent scenery. The activities was okay but nothing special.,neutral,8,True
+user017,Varanasi,Disappointing cleanliness. The views was not up to the mark.,negative,97,True
+user017,Goa,Fantastic experience at Goa. The hospitality exceeded expectations.,positive,74,True
+user017,Jaipur,Fantastic experience at Jaipur. The food exceeded expectations.,positive,87,True
+user017,Udaipur,Standard Udaipur visit. ambiance was acceptable.,neutral,40,False
+user017,Hampi,Overrated destination. food needs improvement.,negative,73,False
+user017,Delhi,Poor activities and crowded scenery. Not recommended for families.,negative,48,False
+user017,Rishikesh,Fantastic experience at Rishikesh. The cleanliness exceeded expectations.,positive,65,False
+user017,Leh-Ladakh,Outstanding Leh-Ladakh visit. food was incredible.,positive,46,False
+user018,Agra,Beautiful service and excellent cleanliness. Perfect for couples.,positive,85,True
+user018,Udaipur,Standard Udaipur visit. activities was acceptable.,neutral,27,True
+user018,Jaipur,Overrated destination. scenery needs improvement.,negative,53,False
+user018,Shimla,Poor ambiance and crowded scenery. Not recommended for families.,negative,56,False
+user018,Manali,Average experience. accommodation could be better.,neutral,95,False
+user018,Hampi,Fantastic experience at Hampi. The hospitality exceeded expectations.,positive,92,True
+user019,Agra,Poor facilities and crowded hospitality. Not recommended for couples.,negative,81,False
+user019,Varanasi,Amazing food! The activities was absolutely wonderful. Highly recommend for adventure seekers.,positive,47,False
+user019,Darjeeling,Fantastic experience at Darjeeling. The food exceeded expectations.,positive,21,True
+user019,Kerala,Average experience. cleanliness could be better.,neutral,89,False
+user019,Rishikesh,Fantastic experience at Rishikesh. The accommodation exceeded expectations.,positive,35,True
+user020,Udaipur,Outstanding Udaipur visit. scenery was incredible.,positive,93,False
+user020,Shimla,Disappointing accommodation. The service was not up to the mark.,negative,99,True
+user020,Mumbai,Amazing scenery! The service was absolutely wonderful. Highly recommend for families.,positive,19,True
+user020,Rishikesh,Amazing attractions! The culture was absolutely wonderful. Highly recommend for couples.,positive,40,True
+user020,Agra,Amazing attractions! The ambiance was absolutely wonderful. Highly recommend for solo travelers.,positive,29,True
+user021,Jaipur,Poor culture and crowded hospitality. Not recommended for families.,negative,99,True
+user021,Agra,Beautiful service and excellent scenery. Perfect for families.,positive,39,True
+user021,Ooty,Beautiful ambiance and excellent food. Perfect for families.,positive,62,True
+user021,Mumbai,Outstanding Mumbai visit. food was incredible.,positive,78,True
+user021,Shimla,Outstanding Shimla visit. cleanliness was incredible.,positive,93,False
+user021,Hampi,Amazing accommodation! The culture was absolutely wonderful. Highly recommend for couples.,positive,58,True
+user021,Darjeeling,Outstanding Darjeeling visit. scenery was incredible.,positive,5,True
+user021,Varanasi,Outstanding Varanasi visit. attractions was incredible.,positive,1,False
+user021,Leh-Ladakh,Beautiful ambiance and excellent hospitality. Perfect for adventure seekers.,positive,10,False
+user021,Rishikesh,Fantastic experience at Rishikesh. The scenery exceeded expectations.,positive,2,True
+user021,Udaipur,Outstanding Udaipur visit. hospitality was incredible.,positive,2,True
+user022,Mumbai,Average experience. food could be better.,neutral,1,True
+user022,Rishikesh,Amazing scenery! The service was absolutely wonderful. Highly recommend for solo travelers.,positive,73,False
+user022,Kerala,Outstanding Kerala visit. food was incredible.,positive,72,False
+user022,Manali,Average experience. attractions could be better.,neutral,6,True
+user022,Varanasi,Poor facilities and crowded scenery. Not recommended for adventure seekers.,negative,23,False
+user022,Hampi,Beautiful service and excellent attractions. Perfect for solo travelers.,positive,48,False
+user022,Darjeeling,Standard Darjeeling visit. culture was acceptable.,neutral,93,False
+user022,Agra,Poor culture and crowded accommodation. Not recommended for solo travelers.,negative,11,True
+user022,Udaipur,Standard Udaipur visit. facilities was acceptable.,neutral,71,True
+user022,Goa,Fantastic experience at Goa. The accommodation exceeded expectations.,positive,51,True
+user022,Ooty,Standard Ooty visit. service was acceptable.,neutral,42,True
+user022,Shimla,Standard Shimla visit. ambiance was acceptable.,neutral,2,True
+user023,Hampi,Outstanding Hampi visit. hospitality was incredible.,positive,21,False
+user023,Udaipur,Fantastic experience at Udaipur. The attractions exceeded expectations.,positive,30,True
+user023,Goa,Outstanding Goa visit. food was incredible.,positive,53,False
+user023,Manali,Disappointing hospitality. The activities was not up to the mark.,negative,65,True
+user023,Mumbai,Poor activities and crowded cleanliness. Not recommended for families.,negative,44,True
+user023,Darjeeling,Expected better accommodation considering the hype.,negative,79,False
+user023,Varanasi,Beautiful activities and excellent scenery. Perfect for couples.,positive,77,True
+user023,Leh-Ladakh,Overrated destination. attractions needs improvement.,negative,37,False
+user023,Kerala,Standard Kerala visit. facilities was acceptable.,neutral,64,False
+user023,Rishikesh,Decent hospitality. The views was okay but nothing special.,neutral,25,False
+user023,Jaipur,Outstanding Jaipur visit. attractions was incredible.,positive,28,True
+user023,Agra,Amazing hospitality! The service was absolutely wonderful. Highly recommend for solo travelers.,positive,18,True
+user024,Jaipur,Amazing hospitality! The facilities was absolutely wonderful. Highly recommend for solo travelers.,positive,25,True
+user024,Leh-Ladakh,Fantastic experience at Leh-Ladakh. The attractions exceeded expectations.,positive,23,True
+user024,Darjeeling,Standard Darjeeling visit. culture was acceptable.,neutral,80,True
+user024,Kerala,Standard Kerala visit. activities was acceptable.,neutral,56,False
+user024,Shimla,Average experience. hospitality could be better.,neutral,34,True
+user024,Delhi,Fantastic experience at Delhi. The hospitality exceeded expectations.,positive,87,False
+user024,Agra,Beautiful ambiance and excellent scenery. Perfect for couples.,positive,68,True
+user024,Udaipur,Fantastic experience at Udaipur. The hospitality exceeded expectations.,positive,2,False
+user024,Ooty,Beautiful activities and excellent accommodation. Perfect for solo travelers.,positive,89,True
+user024,Manali,Poor facilities and crowded hospitality. Not recommended for solo travelers.,negative,14,True
+user025,Delhi,Fantastic experience at Delhi. The scenery exceeded expectations.,positive,73,True
+user025,Mumbai,Overrated destination. cleanliness needs improvement.,negative,96,True
+user025,Kerala,Standard Kerala visit. activities was acceptable.,neutral,36,False
+user025,Goa,Average experience. accommodation could be better.,neutral,90,True
+user025,Leh-Ladakh,Amazing attractions! The views was absolutely wonderful. Highly recommend for families.,positive,93,True
+user025,Agra,Average experience. cleanliness could be better.,neutral,23,False
+user025,Varanasi,Overrated destination. accommodation needs improvement.,negative,88,False
+user025,Hampi,Beautiful service and excellent food. Perfect for couples.,positive,86,True
+user026,Manali,Decent food. The service was okay but nothing special.,neutral,76,True
+user026,Leh-Ladakh,Overrated destination. accommodation needs improvement.,negative,85,False
+user026,Shimla,Poor views and crowded scenery. Not recommended for couples.,negative,1,True
+user026,Kerala,Fantastic experience at Kerala. The scenery exceeded expectations.,positive,85,False
+user026,Darjeeling,Overrated destination. scenery needs improvement.,negative,77,True
+user026,Mumbai,Beautiful views and excellent scenery. Perfect for couples.,positive,39,True
+user026,Ooty,Outstanding Ooty visit. hospitality was incredible.,positive,12,True
+user026,Goa,Fantastic experience at Goa. The food exceeded expectations.,positive,87,True
+user026,Delhi,Beautiful service and excellent scenery. Perfect for couples.,positive,64,True
+user026,Udaipur,Average experience. attractions could be better.,neutral,24,True
+user027,Shimla,Average experience. cleanliness could be better.,neutral,92,False
+user027,Mumbai,Expected better scenery considering the hype.,negative,72,True
+user027,Udaipur,Expected better hospitality considering the hype.,negative,67,True
+user027,Hampi,Standard Hampi visit. activities was acceptable.,neutral,48,True
+user027,Jaipur,Disappointing scenery. The views was not up to the mark.,negative,41,True
+user027,Darjeeling,Standard Darjeeling visit. facilities was acceptable.,neutral,4,True
+user027,Leh-Ladakh,Fantastic experience at Leh-Ladakh. The accommodation exceeded expectations.,positive,14,True
+user027,Manali,Fantastic experience at Manali. The food exceeded expectations.,positive,25,False
+user027,Delhi,Average experience. hospitality could be better.,neutral,47,True
+user027,Kerala,Standard Kerala visit. culture was acceptable.,neutral,25,False
+user027,Ooty,Outstanding Ooty visit. food was incredible.,positive,39,False
+user028,Goa,Decent attractions. The ambiance was okay but nothing special.,neutral,24,True
+user028,Varanasi,Standard Varanasi visit. views was acceptable.,neutral,56,False
+user028,Shimla,Beautiful views and excellent hospitality. Perfect for solo travelers.,positive,55,True
+user028,Jaipur,Poor views and crowded hospitality. Not recommended for adventure seekers.,negative,82,True
+user028,Mumbai,Disappointing cleanliness. The ambiance was not up to the mark.,negative,19,False
+user028,Kerala,Standard Kerala visit. ambiance was acceptable.,neutral,59,True
+user028,Agra,Amazing attractions! The culture was absolutely wonderful. Highly recommend for adventure seekers.,positive,84,False
+user028,Ooty,Beautiful activities and excellent food. Perfect for adventure seekers.,positive,7,False
+user028,Delhi,Beautiful activities and excellent scenery. Perfect for families.,positive,88,True
+user028,Leh-Ladakh,Outstanding Leh-Ladakh visit. cleanliness was incredible.,positive,3,True
+user028,Udaipur,Amazing scenery! The ambiance was absolutely wonderful. Highly recommend for adventure seekers.,positive,43,True
+user029,Mumbai,Outstanding Mumbai visit. hospitality was incredible.,positive,45,False
+user029,Hampi,Beautiful ambiance and excellent attractions. Perfect for couples.,positive,65,True
+user029,Udaipur,Beautiful ambiance and excellent hospitality. Perfect for adventure seekers.,positive,89,True
+user029,Jaipur,Disappointing scenery. The ambiance was not up to the mark.,negative,86,True
+user029,Leh-Ladakh,Amazing food! The culture was absolutely wonderful. Highly recommend for couples.,positive,80,True
+user029,Shimla,Decent attractions. The views was okay but nothing special.,neutral,54,True
+user030,Kerala,Average experience. attractions could be better.,neutral,64,True
+user030,Jaipur,Outstanding Jaipur visit. accommodation was incredible.,positive,10,True
+user030,Darjeeling,Fantastic experience at Darjeeling. The accommodation exceeded expectations.,positive,47,True
+user030,Rishikesh,Amazing cleanliness! The service was absolutely wonderful. Highly recommend for families.,positive,44,True
+user030,Mumbai,Average experience. hospitality could be better.,neutral,96,True
+user030,Ooty,Disappointing scenery. The culture was not up to the mark.,negative,17,True
+user030,Delhi,Average experience. hospitality could be better.,neutral,1,True
+user031,Delhi,Overrated destination. cleanliness needs improvement.,negative,99,False
+user031,Goa,Amazing hospitality! The culture was absolutely wonderful. Highly recommend for couples.,positive,84,False
+user031,Varanasi,Overrated destination. attractions needs improvement.,negative,12,True
+user031,Leh-Ladakh,Poor culture and crowded cleanliness. Not recommended for adventure seekers.,negative,40,True
+user031,Jaipur,Standard Jaipur visit. activities was acceptable.,neutral,15,True
+user031,Manali,Outstanding Manali visit. accommodation was incredible.,positive,16,True
+user032,Manali,Disappointing scenery. The facilities was not up to the mark.,negative,81,True
+user032,Leh-Ladakh,Average experience. accommodation could be better.,neutral,68,True
+user032,Jaipur,Disappointing accommodation. The views was not up to the mark.,negative,28,True
+user032,Udaipur,Beautiful views and excellent scenery. Perfect for families.,positive,40,True
+user032,Hampi,Amazing food! The ambiance was absolutely wonderful. Highly recommend for solo travelers.,positive,94,True
+user032,Darjeeling,Fantastic experience at Darjeeling. The food exceeded expectations.,positive,77,True
+user032,Kerala,Standard Kerala visit. service was acceptable.,neutral,45,False
+user032,Agra,Expected better food considering the hype.,negative,72,False
+user032,Shimla,Disappointing food. The ambiance was not up to the mark.,negative,39,True
+user032,Ooty,Average experience. cleanliness could be better.,neutral,23,False
+user032,Mumbai,Beautiful ambiance and excellent cleanliness. Perfect for adventure seekers.,positive,44,True
+user032,Delhi,Expected better cleanliness considering the hype.,negative,84,True
+user033,Mumbai,Overrated destination. attractions needs improvement.,negative,16,True
+user033,Agra,Average experience. food could be better.,neutral,26,False
+user033,Leh-Ladakh,Beautiful activities and excellent cleanliness. Perfect for families.,positive,19,True
+user033,Udaipur,Fantastic experience at Udaipur. The attractions exceeded expectations.,positive,34,True
+user033,Ooty,Disappointing hospitality. The activities was not up to the mark.,negative,26,True
+user033,Darjeeling,Outstanding Darjeeling visit. scenery was incredible.,positive,71,True
+user033,Kerala,Outstanding Kerala visit. scenery was incredible.,positive,41,True
+user033,Jaipur,Overrated destination. accommodation needs improvement.,negative,63,False
+user033,Goa,Decent cleanliness. The culture was okay but nothing special.,neutral,68,True
+user034,Ooty,Fantastic experience at Ooty. The scenery exceeded expectations.,positive,58,True
+user034,Udaipur,Disappointing cleanliness. The culture was not up to the mark.,negative,28,True
+user034,Shimla,Decent scenery. The activities was okay but nothing special.,neutral,58,False
+user034,Leh-Ladakh,Average experience. accommodation could be better.,neutral,19,True
+user034,Manali,Decent cleanliness. The service was okay but nothing special.,neutral,81,True
+user034,Goa,Outstanding Goa visit. cleanliness was incredible.,positive,98,True
+user034,Jaipur,Outstanding Jaipur visit. accommodation was incredible.,positive,86,False
+user034,Darjeeling,Beautiful activities and excellent food. Perfect for families.,positive,43,True
+user034,Varanasi,Poor views and crowded attractions. Not recommended for solo travelers.,negative,73,False
+user034,Kerala,Decent scenery. The activities was okay but nothing special.,neutral,39,True
+user035,Goa,Decent cleanliness. The ambiance was okay but nothing special.,neutral,78,True
+user035,Delhi,Amazing cleanliness! The views was absolutely wonderful. Highly recommend for adventure seekers.,positive,27,True
+user035,Manali,Average experience. hospitality could be better.,neutral,92,True
+user035,Rishikesh,Standard Rishikesh visit. ambiance was acceptable.,neutral,86,True
+user035,Agra,Standard Agra visit. facilities was acceptable.,neutral,13,True
+user035,Varanasi,Beautiful views and excellent food. Perfect for adventure seekers.,positive,27,False
+user036,Rishikesh,Beautiful service and excellent hospitality. Perfect for families.,positive,99,True
+user036,Hampi,Decent food. The ambiance was okay but nothing special.,neutral,75,True
+user036,Mumbai,Amazing hospitality! The facilities was absolutely wonderful. Highly recommend for families.,positive,31,False
+user036,Goa,Fantastic experience at Goa. The accommodation exceeded expectations.,positive,40,True
+user036,Darjeeling,Average experience. cleanliness could be better.,neutral,17,True
+user036,Ooty,Poor activities and crowded accommodation. Not recommended for couples.,negative,94,True
+user036,Kerala,Amazing scenery! The service was absolutely wonderful. Highly recommend for families.,positive,72,True
+user036,Delhi,Average experience. accommodation could be better.,neutral,71,True
+user036,Manali,Average experience. attractions could be better.,neutral,98,True
+user037,Manali,Overrated destination. accommodation needs improvement.,negative,41,False
+user037,Leh-Ladakh,Expected better accommodation considering the hype.,negative,9,True
+user037,Goa,Fantastic experience at Goa. The attractions exceeded expectations.,positive,33,False
+user037,Jaipur,Outstanding Jaipur visit. scenery was incredible.,positive,81,True
+user037,Delhi,Disappointing scenery. The ambiance was not up to the mark.,negative,42,True
+user038,Leh-Ladakh,Beautiful service and excellent cleanliness. Perfect for couples.,positive,0,True
+user038,Ooty,Fantastic experience at Ooty. The scenery exceeded expectations.,positive,13,False
+user038,Mumbai,Decent hospitality. The facilities was okay but nothing special.,neutral,7,True
+user038,Agra,Outstanding Agra visit. accommodation was incredible.,positive,94,True
+user038,Delhi,Standard Delhi visit. activities was acceptable.,neutral,55,True
+user038,Hampi,Fantastic experience at Hampi. The scenery exceeded expectations.,positive,27,False
+user038,Jaipur,Outstanding Jaipur visit. attractions was incredible.,positive,59,True
+user038,Kerala,Overrated destination. hospitality needs improvement.,negative,63,True
+user039,Ooty,Poor activities and crowded hospitality. Not recommended for solo travelers.,negative,24,True
+user039,Kerala,Beautiful activities and excellent hospitality. Perfect for adventure seekers.,positive,22,True
+user039,Mumbai,Decent cleanliness. The ambiance was okay but nothing special.,neutral,59,True
+user039,Jaipur,Amazing food! The activities was absolutely wonderful. Highly recommend for couples.,positive,34,False
+user039,Manali,Amazing accommodation! The culture was absolutely wonderful. Highly recommend for families.,positive,10,True
+user039,Delhi,Standard Delhi visit. ambiance was acceptable.,neutral,22,True
+user039,Hampi,Average experience. cleanliness could be better.,neutral,67,True
+user039,Leh-Ladakh,Beautiful service and excellent scenery. Perfect for adventure seekers.,positive,50,False
+user039,Darjeeling,Beautiful culture and excellent food. Perfect for couples.,positive,63,True
+user039,Agra,Decent accommodation. The ambiance was okay but nothing special.,neutral,71,True
+user040,Delhi,Fantastic experience at Delhi. The accommodation exceeded expectations.,positive,24,True
+user040,Shimla,Standard Shimla visit. views was acceptable.,neutral,46,True
+user040,Rishikesh,Expected better accommodation considering the hype.,negative,6,False
+user040,Kerala,Outstanding Kerala visit. scenery was incredible.,positive,92,True
+user040,Goa,Outstanding Goa visit. cleanliness was incredible.,positive,72,False
+user040,Udaipur,Fantastic experience at Udaipur. The attractions exceeded expectations.,positive,34,True
+user040,Ooty,Beautiful service and excellent cleanliness. Perfect for solo travelers.,positive,36,False
+user040,Hampi,Overrated destination. accommodation needs improvement.,negative,78,True
+user040,Darjeeling,Average experience. attractions could be better.,neutral,78,False
+user040,Jaipur,Average experience. accommodation could be better.,neutral,18,False
+user040,Agra,Average experience. scenery could be better.,neutral,62,True
+user041,Varanasi,Standard Varanasi visit. culture was acceptable.,neutral,59,False
+user041,Agra,Outstanding Agra visit. attractions was incredible.,positive,58,False
+user041,Goa,Decent attractions. The service was okay but nothing special.,neutral,98,True
+user041,Leh-Ladakh,Expected better hospitality considering the hype.,negative,52,True
+user041,Udaipur,Amazing food! The culture was absolutely wonderful. Highly recommend for families.,positive,15,True
+user041,Jaipur,Decent cleanliness. The activities was okay but nothing special.,neutral,21,True
+user041,Mumbai,Disappointing scenery. The facilities was not up to the mark.,negative,31,True
+user041,Rishikesh,Average experience. attractions could be better.,neutral,80,True
+user041,Kerala,Decent food. The ambiance was okay but nothing special.,neutral,58,True
+user041,Shimla,Disappointing cleanliness. The activities was not up to the mark.,negative,76,False
+user041,Darjeeling,Outstanding Darjeeling visit. scenery was incredible.,positive,22,True
+user042,Agra,Outstanding Agra visit. scenery was incredible.,positive,19,True
+user042,Varanasi,Decent attractions. The service was okay but nothing special.,neutral,91,True
+user042,Delhi,Overrated destination. scenery needs improvement.,negative,26,True
+user042,Ooty,Standard Ooty visit. activities was acceptable.,neutral,22,True
+user042,Kerala,Standard Kerala visit. ambiance was acceptable.,neutral,56,True
+user043,Ooty,Average experience. attractions could be better.,neutral,76,True
+user043,Udaipur,Outstanding Udaipur visit. scenery was incredible.,positive,65,True
+user043,Leh-Ladakh,Expected better accommodation considering the hype.,negative,40,True
+user043,Hampi,Average experience. attractions could be better.,neutral,96,True
+user043,Delhi,Beautiful service and excellent scenery. Perfect for adventure seekers.,positive,50,True
+user043,Rishikesh,Average experience. attractions could be better.,neutral,59,False
+user043,Darjeeling,Outstanding Darjeeling visit. attractions was incredible.,positive,62,True
+user043,Varanasi,Decent attractions. The culture was okay but nothing special.,neutral,42,True
+user043,Kerala,Decent attractions. The views was okay but nothing special.,neutral,0,False
+user044,Udaipur,Amazing scenery! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,30,True
+user044,Darjeeling,Beautiful ambiance and excellent cleanliness. Perfect for adventure seekers.,positive,19,False
+user044,Kerala,Outstanding Kerala visit. food was incredible.,positive,21,True
+user044,Varanasi,Amazing attractions! The facilities was absolutely wonderful. Highly recommend for couples.,positive,24,False
+user044,Rishikesh,Average experience. hospitality could be better.,neutral,96,False
+user044,Jaipur,Amazing food! The service was absolutely wonderful. Highly recommend for adventure seekers.,positive,42,True
+user045,Shimla,Outstanding Shimla visit. scenery was incredible.,positive,54,True
+user045,Darjeeling,Decent food. The activities was okay but nothing special.,neutral,60,True
+user045,Goa,Beautiful culture and excellent hospitality. Perfect for families.,positive,90,True
+user045,Hampi,Overrated destination. hospitality needs improvement.,negative,51,True
+user045,Manali,Disappointing cleanliness. The facilities was not up to the mark.,negative,24,True
+user046,Delhi,Beautiful facilities and excellent cleanliness. Perfect for families.,positive,45,True
+user046,Hampi,Average experience. accommodation could be better.,neutral,39,True
+user046,Ooty,Fantastic experience at Ooty. The scenery exceeded expectations.,positive,71,True
+user046,Varanasi,Average experience. attractions could be better.,neutral,35,False
+user046,Darjeeling,Disappointing scenery. The facilities was not up to the mark.,negative,78,True
+user046,Kerala,Poor culture and crowded accommodation. Not recommended for couples.,negative,81,False
+user047,Agra,Average experience. accommodation could be better.,neutral,36,False
+user047,Delhi,Amazing attractions! The views was absolutely wonderful. Highly recommend for solo travelers.,positive,90,False
+user047,Mumbai,Average experience. accommodation could be better.,neutral,56,True
+user047,Rishikesh,Beautiful ambiance and excellent scenery. Perfect for solo travelers.,positive,74,True
+user047,Ooty,Standard Ooty visit. views was acceptable.,neutral,28,True
+user047,Jaipur,Beautiful facilities and excellent accommodation. Perfect for families.,positive,42,False
+user047,Udaipur,Beautiful ambiance and excellent cleanliness. Perfect for families.,positive,11,False
+user048,Kerala,Amazing attractions! The culture was absolutely wonderful. Highly recommend for adventure seekers.,positive,94,True
+user048,Rishikesh,Amazing food! The activities was absolutely wonderful. Highly recommend for solo travelers.,positive,30,True
+user048,Mumbai,Fantastic experience at Mumbai. The attractions exceeded expectations.,positive,58,True
+user048,Varanasi,Decent scenery. The service was okay but nothing special.,neutral,91,False
+user048,Ooty,Amazing hospitality! The ambiance was absolutely wonderful. Highly recommend for families.,positive,65,True
+user049,Ooty,Amazing cleanliness! The ambiance was absolutely wonderful. Highly recommend for adventure seekers.,positive,50,True
+user049,Udaipur,Decent scenery. The ambiance was okay but nothing special.,neutral,34,True
+user049,Goa,Outstanding Goa visit. scenery was incredible.,positive,31,False
+user049,Mumbai,Decent hospitality. The service was okay but nothing special.,neutral,7,True
+user049,Kerala,Standard Kerala visit. ambiance was acceptable.,neutral,27,True
+user049,Hampi,Disappointing scenery. The ambiance was not up to the mark.,negative,65,True
+user049,Manali,Decent cleanliness. The views was okay but nothing special.,neutral,32,True
+user050,Varanasi,Decent cleanliness. The views was okay but nothing special.,neutral,97,False
+user050,Darjeeling,Standard Darjeeling visit. views was acceptable.,neutral,41,True
+user050,Leh-Ladakh,Decent food. The activities was okay but nothing special.,neutral,29,True
+user050,Ooty,Beautiful service and excellent accommodation. Perfect for solo travelers.,positive,71,True
+user050,Shimla,Poor ambiance and crowded accommodation. Not recommended for families.,negative,74,True
+user050,Goa,Amazing hospitality! The service was absolutely wonderful. Highly recommend for solo travelers.,positive,0,True
+user050,Manali,Expected better attractions considering the hype.,negative,55,True
+user050,Mumbai,Overrated destination. hospitality needs improvement.,negative,5,False
+user051,Shimla,Overrated destination. scenery needs improvement.,negative,45,True
+user051,Manali,Standard Manali visit. activities was acceptable.,neutral,68,True
+user051,Leh-Ladakh,Decent food. The views was okay but nothing special.,neutral,10,True
+user051,Udaipur,Expected better hospitality considering the hype.,negative,75,True
+user051,Ooty,Standard Ooty visit. culture was acceptable.,neutral,83,True
+user051,Goa,Disappointing cleanliness. The service was not up to the mark.,negative,1,True
+user051,Kerala,Fantastic experience at Kerala. The accommodation exceeded expectations.,positive,74,True
+user052,Manali,Disappointing accommodation. The service was not up to the mark.,negative,96,False
+user052,Udaipur,Fantastic experience at Udaipur. The cleanliness exceeded expectations.,positive,24,True
+user052,Kerala,Fantastic experience at Kerala. The cleanliness exceeded expectations.,positive,12,True
+user052,Ooty,Overrated destination. attractions needs improvement.,negative,43,True
+user052,Leh-Ladakh,Amazing food! The facilities was absolutely wonderful. Highly recommend for adventure seekers.,positive,13,True
+user052,Rishikesh,Fantastic experience at Rishikesh. The hospitality exceeded expectations.,positive,97,False
+user052,Delhi,Outstanding Delhi visit. hospitality was incredible.,positive,40,False
+user052,Agra,Beautiful culture and excellent attractions. Perfect for families.,positive,39,True
+user052,Varanasi,Amazing attractions! The activities was absolutely wonderful. Highly recommend for couples.,positive,13,True
+user052,Darjeeling,Decent hospitality. The ambiance was okay but nothing special.,neutral,98,True
+user053,Darjeeling,Average experience. scenery could be better.,neutral,20,True
+user053,Kerala,Beautiful views and excellent food. Perfect for couples.,positive,65,True
+user053,Jaipur,Amazing scenery! The culture was absolutely wonderful. Highly recommend for couples.,positive,75,False
+user053,Shimla,Standard Shimla visit. facilities was acceptable.,neutral,82,True
+user053,Delhi,Fantastic experience at Delhi. The accommodation exceeded expectations.,positive,58,True
+user054,Rishikesh,Outstanding Rishikesh visit. accommodation was incredible.,positive,25,True
+user054,Agra,Amazing accommodation! The ambiance was absolutely wonderful. Highly recommend for families.,positive,91,True
+user054,Ooty,Average experience. accommodation could be better.,neutral,59,False
+user054,Kerala,Outstanding Kerala visit. cleanliness was incredible.,positive,75,True
+user054,Hampi,Outstanding Hampi visit. food was incredible.,positive,56,False
+user054,Leh-Ladakh,Poor service and crowded hospitality. Not recommended for adventure seekers.,negative,98,True
+user054,Shimla,Expected better hospitality considering the hype.,negative,17,True
+user055,Manali,Outstanding Manali visit. accommodation was incredible.,positive,60,True
+user055,Rishikesh,Beautiful activities and excellent cleanliness. Perfect for adventure seekers.,positive,39,False
+user055,Leh-Ladakh,Beautiful activities and excellent accommodation. Perfect for couples.,positive,99,True
+user055,Delhi,Fantastic experience at Delhi. The hospitality exceeded expectations.,positive,73,True
+user055,Goa,Beautiful culture and excellent food. Perfect for solo travelers.,positive,33,True
+user055,Darjeeling,Average experience. attractions could be better.,neutral,58,True
+user055,Mumbai,Fantastic experience at Mumbai. The accommodation exceeded expectations.,positive,42,True
+user055,Jaipur,Outstanding Jaipur visit. cleanliness was incredible.,positive,69,True
+user055,Ooty,Fantastic experience at Ooty. The attractions exceeded expectations.,positive,91,True
+user055,Kerala,Outstanding Kerala visit. hospitality was incredible.,positive,79,False
+user055,Hampi,Average experience. cleanliness could be better.,neutral,14,True
+user055,Agra,Standard Agra visit. service was acceptable.,neutral,76,True
+user056,Manali,Fantastic experience at Manali. The attractions exceeded expectations.,positive,74,True
+user056,Kerala,Fantastic experience at Kerala. The scenery exceeded expectations.,positive,28,True
+user056,Delhi,Outstanding Delhi visit. food was incredible.,positive,82,True
+user056,Hampi,Expected better cleanliness considering the hype.,negative,61,True
+user056,Udaipur,Outstanding Udaipur visit. accommodation was incredible.,positive,6,False
+user056,Rishikesh,Standard Rishikesh visit. views was acceptable.,neutral,76,False
+user056,Leh-Ladakh,Amazing cleanliness! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,65,True
+user056,Varanasi,Standard Varanasi visit. service was acceptable.,neutral,62,True
+user056,Ooty,Poor facilities and crowded attractions. Not recommended for couples.,negative,81,True
+user057,Rishikesh,Amazing scenery! The ambiance was absolutely wonderful. Highly recommend for families.,positive,79,False
+user057,Varanasi,Expected better cleanliness considering the hype.,negative,42,False
+user057,Mumbai,Amazing food! The views was absolutely wonderful. Highly recommend for couples.,positive,59,False
+user057,Ooty,Amazing food! The views was absolutely wonderful. Highly recommend for solo travelers.,positive,59,True
+user057,Shimla,Poor service and crowded food. Not recommended for couples.,negative,73,True
+user057,Delhi,Standard Delhi visit. culture was acceptable.,neutral,21,True
+user057,Manali,Outstanding Manali visit. food was incredible.,positive,27,False
+user057,Leh-Ladakh,Disappointing attractions. The views was not up to the mark.,negative,19,True
+user058,Udaipur,Overrated destination. accommodation needs improvement.,negative,43,False
+user058,Darjeeling,Average experience. scenery could be better.,neutral,43,True
+user058,Leh-Ladakh,Overrated destination. hospitality needs improvement.,negative,37,True
+user058,Hampi,Standard Hampi visit. culture was acceptable.,neutral,20,True
+user058,Manali,Beautiful views and excellent scenery. Perfect for solo travelers.,positive,39,True
+user058,Mumbai,Poor views and crowded scenery. Not recommended for adventure seekers.,negative,22,False
+user058,Jaipur,Outstanding Jaipur visit. hospitality was incredible.,positive,68,True
+user058,Shimla,Decent food. The culture was okay but nothing special.,neutral,46,True
+user058,Agra,Amazing accommodation! The facilities was absolutely wonderful. Highly recommend for families.,positive,4,True
+user058,Delhi,Fantastic experience at Delhi. The accommodation exceeded expectations.,positive,78,True
+user058,Kerala,Outstanding Kerala visit. accommodation was incredible.,positive,92,False
+user059,Delhi,Outstanding Delhi visit. attractions was incredible.,positive,60,True
+user059,Hampi,Decent cleanliness. The culture was okay but nothing special.,neutral,31,False
+user059,Varanasi,Average experience. hospitality could be better.,neutral,82,True
+user059,Leh-Ladakh,Amazing accommodation! The culture was absolutely wonderful. Highly recommend for families.,positive,7,False
+user059,Kerala,Amazing scenery! The culture was absolutely wonderful. Highly recommend for families.,positive,73,False
+user059,Shimla,Overrated destination. hospitality needs improvement.,negative,40,True
+user059,Agra,Fantastic experience at Agra. The attractions exceeded expectations.,positive,0,True
+user059,Udaipur,Beautiful ambiance and excellent food. Perfect for families.,positive,95,True
+user059,Manali,Outstanding Manali visit. hospitality was incredible.,positive,64,True
+user059,Ooty,Disappointing scenery. The activities was not up to the mark.,negative,63,True
+user059,Goa,Disappointing food. The culture was not up to the mark.,negative,5,False
+user060,Jaipur,Amazing food! The facilities was absolutely wonderful. Highly recommend for families.,positive,93,True
+user060,Udaipur,Average experience. cleanliness could be better.,neutral,6,False
+user060,Ooty,Standard Ooty visit. ambiance was acceptable.,neutral,5,True
+user060,Leh-Ladakh,Disappointing scenery. The facilities was not up to the mark.,negative,57,False
+user060,Darjeeling,Outstanding Darjeeling visit. scenery was incredible.,positive,39,True
+user060,Mumbai,Average experience. scenery could be better.,neutral,91,False
+user060,Delhi,Standard Delhi visit. activities was acceptable.,neutral,62,True
+user060,Varanasi,Beautiful activities and excellent accommodation. Perfect for adventure seekers.,positive,23,True
+user060,Hampi,Fantastic experience at Hampi. The accommodation exceeded expectations.,positive,91,True
+user060,Kerala,Outstanding Kerala visit. hospitality was incredible.,positive,25,True
+user060,Agra,Average experience. attractions could be better.,neutral,46,False
+user061,Ooty,Beautiful facilities and excellent attractions. Perfect for families.,positive,16,True
+user061,Leh-Ladakh,Expected better food considering the hype.,negative,45,True
+user061,Mumbai,Amazing scenery! The facilities was absolutely wonderful. Highly recommend for solo travelers.,positive,32,True
+user061,Hampi,Amazing accommodation! The activities was absolutely wonderful. Highly recommend for families.,positive,48,True
+user061,Rishikesh,Decent attractions. The activities was okay but nothing special.,neutral,44,True
+user062,Leh-Ladakh,Amazing cleanliness! The facilities was absolutely wonderful. Highly recommend for solo travelers.,positive,5,False
+user062,Manali,Fantastic experience at Manali. The accommodation exceeded expectations.,positive,19,False
+user062,Mumbai,Expected better food considering the hype.,negative,47,True
+user062,Jaipur,Outstanding Jaipur visit. accommodation was incredible.,positive,83,False
+user062,Kerala,Overrated destination. hospitality needs improvement.,negative,47,True
+user062,Goa,Fantastic experience at Goa. The scenery exceeded expectations.,positive,54,True
+user062,Udaipur,Fantastic experience at Udaipur. The attractions exceeded expectations.,positive,57,False
+user062,Darjeeling,Overrated destination. food needs improvement.,negative,67,True
+user062,Hampi,Outstanding Hampi visit. hospitality was incredible.,positive,33,True
+user062,Ooty,Average experience. hospitality could be better.,neutral,87,True
+user062,Agra,Poor facilities and crowded hospitality. Not recommended for solo travelers.,negative,29,False
+user062,Rishikesh,Amazing hospitality! The facilities was absolutely wonderful. Highly recommend for solo travelers.,positive,10,True
+user063,Ooty,Outstanding Ooty visit. accommodation was incredible.,positive,61,True
+user063,Varanasi,Beautiful service and excellent food. Perfect for solo travelers.,positive,87,True
+user063,Leh-Ladakh,Expected better scenery considering the hype.,negative,34,True
+user063,Hampi,Outstanding Hampi visit. scenery was incredible.,positive,98,True
+user063,Kerala,Amazing accommodation! The culture was absolutely wonderful. Highly recommend for adventure seekers.,positive,46,True
+user063,Udaipur,Beautiful service and excellent attractions. Perfect for adventure seekers.,positive,71,False
+user063,Mumbai,Fantastic experience at Mumbai. The accommodation exceeded expectations.,positive,6,True
+user063,Shimla,Fantastic experience at Shimla. The accommodation exceeded expectations.,positive,42,False
+user063,Delhi,Fantastic experience at Delhi. The attractions exceeded expectations.,positive,91,True
+user063,Darjeeling,Average experience. food could be better.,neutral,41,True
+user063,Goa,Beautiful ambiance and excellent cleanliness. Perfect for solo travelers.,positive,41,False
+user063,Manali,Disappointing cleanliness. The ambiance was not up to the mark.,negative,54,True
+user064,Mumbai,Amazing scenery! The facilities was absolutely wonderful. Highly recommend for solo travelers.,positive,55,False
+user064,Varanasi,Overrated destination. attractions needs improvement.,negative,71,True
+user064,Jaipur,Expected better attractions considering the hype.,negative,87,True
+user064,Udaipur,Decent scenery. The ambiance was okay but nothing special.,neutral,60,True
+user064,Leh-Ladakh,Beautiful service and excellent cleanliness. Perfect for couples.,positive,54,True
+user064,Darjeeling,Beautiful views and excellent accommodation. Perfect for adventure seekers.,positive,60,False
+user064,Manali,Average experience. food could be better.,neutral,64,True
+user064,Delhi,Overrated destination. food needs improvement.,negative,42,True
+user064,Goa,Outstanding Goa visit. scenery was incredible.,positive,51,False
+user064,Rishikesh,Fantastic experience at Rishikesh. The cleanliness exceeded expectations.,positive,56,True
+user065,Jaipur,Disappointing food. The activities was not up to the mark.,negative,5,True
+user065,Shimla,Overrated destination. food needs improvement.,negative,58,True
+user065,Rishikesh,Standard Rishikesh visit. service was acceptable.,neutral,98,True
+user065,Varanasi,Outstanding Varanasi visit. food was incredible.,positive,36,True
+user065,Manali,Standard Manali visit. culture was acceptable.,neutral,79,True
+user065,Leh-Ladakh,Outstanding Leh-Ladakh visit. food was incredible.,positive,41,True
+user065,Kerala,Fantastic experience at Kerala. The attractions exceeded expectations.,positive,4,True
+user065,Darjeeling,Amazing accommodation! The service was absolutely wonderful. Highly recommend for solo travelers.,positive,89,True
+user065,Hampi,Poor ambiance and crowded food. Not recommended for solo travelers.,negative,58,True
+user065,Udaipur,Outstanding Udaipur visit. attractions was incredible.,positive,51,False
+user065,Goa,Poor ambiance and crowded scenery. Not recommended for solo travelers.,negative,28,True
+user066,Darjeeling,Expected better accommodation considering the hype.,negative,37,True
+user066,Mumbai,Poor ambiance and crowded attractions. Not recommended for couples.,negative,83,True
+user066,Hampi,Amazing attractions! The service was absolutely wonderful. Highly recommend for adventure seekers.,positive,76,False
+user066,Udaipur,Decent attractions. The views was okay but nothing special.,neutral,24,False
+user066,Jaipur,Beautiful culture and excellent scenery. Perfect for families.,positive,29,True
+user066,Leh-Ladakh,Beautiful culture and excellent accommodation. Perfect for adventure seekers.,positive,59,False
+user066,Agra,Amazing scenery! The views was absolutely wonderful. Highly recommend for adventure seekers.,positive,6,False
+user066,Rishikesh,Beautiful views and excellent attractions. Perfect for couples.,positive,80,False
+user066,Ooty,Standard Ooty visit. views was acceptable.,neutral,61,False
+user066,Kerala,Standard Kerala visit. service was acceptable.,neutral,96,True
+user066,Varanasi,Standard Varanasi visit. service was acceptable.,neutral,82,False
+user067,Jaipur,Amazing scenery! The ambiance was absolutely wonderful. Highly recommend for families.,positive,73,True
+user067,Hampi,Expected better hospitality considering the hype.,negative,88,False
+user067,Agra,Outstanding Agra visit. accommodation was incredible.,positive,99,False
+user067,Mumbai,Overrated destination. hospitality needs improvement.,negative,27,False
+user067,Goa,Decent food. The culture was okay but nothing special.,neutral,75,False
+user067,Udaipur,Decent accommodation. The activities was okay but nothing special.,neutral,66,False
+user067,Darjeeling,Decent cleanliness. The service was okay but nothing special.,neutral,2,False
+user068,Leh-Ladakh,Beautiful ambiance and excellent hospitality. Perfect for couples.,positive,68,True
+user068,Delhi,Amazing hospitality! The ambiance was absolutely wonderful. Highly recommend for adventure seekers.,positive,41,False
+user068,Darjeeling,Standard Darjeeling visit. views was acceptable.,neutral,38,False
+user068,Udaipur,Overrated destination. food needs improvement.,negative,32,True
+user068,Hampi,Average experience. food could be better.,neutral,23,True
+user068,Agra,Beautiful service and excellent scenery. Perfect for adventure seekers.,positive,34,False
+user069,Leh-Ladakh,Standard Leh-Ladakh visit. facilities was acceptable.,neutral,41,True
+user069,Kerala,Outstanding Kerala visit. attractions was incredible.,positive,83,False
+user069,Delhi,Poor ambiance and crowded scenery. Not recommended for adventure seekers.,negative,24,True
+user069,Rishikesh,Overrated destination. hospitality needs improvement.,negative,69,True
+user069,Darjeeling,Standard Darjeeling visit. culture was acceptable.,neutral,8,False
+user069,Mumbai,Standard Mumbai visit. service was acceptable.,neutral,13,True
+user069,Ooty,Outstanding Ooty visit. scenery was incredible.,positive,87,False
+user069,Udaipur,Outstanding Udaipur visit. food was incredible.,positive,75,True
+user069,Manali,Outstanding Manali visit. cleanliness was incredible.,positive,11,False
+user070,Manali,Decent attractions. The activities was okay but nothing special.,neutral,60,True
+user070,Goa,Standard Goa visit. facilities was acceptable.,neutral,41,True
+user070,Varanasi,Beautiful culture and excellent food. Perfect for solo travelers.,positive,61,False
+user070,Agra,Poor culture and crowded accommodation. Not recommended for adventure seekers.,negative,83,True
+user070,Ooty,Overrated destination. food needs improvement.,negative,77,True
+user070,Udaipur,Amazing attractions! The culture was absolutely wonderful. Highly recommend for couples.,positive,52,False
+user071,Udaipur,Amazing hospitality! The facilities was absolutely wonderful. Highly recommend for families.,positive,33,True
+user071,Agra,Fantastic experience at Agra. The attractions exceeded expectations.,positive,84,False
+user071,Hampi,Amazing hospitality! The facilities was absolutely wonderful. Highly recommend for couples.,positive,49,True
+user071,Leh-Ladakh,Disappointing food. The service was not up to the mark.,negative,52,False
+user071,Manali,Average experience. food could be better.,neutral,82,True
+user071,Jaipur,Decent attractions. The activities was okay but nothing special.,neutral,9,False
+user071,Delhi,Outstanding Delhi visit. attractions was incredible.,positive,7,True
+user072,Jaipur,Amazing accommodation! The service was absolutely wonderful. Highly recommend for solo travelers.,positive,27,True
+user072,Shimla,Amazing cleanliness! The views was absolutely wonderful. Highly recommend for adventure seekers.,positive,70,True
+user072,Agra,Outstanding Agra visit. food was incredible.,positive,78,False
+user072,Mumbai,Standard Mumbai visit. views was acceptable.,neutral,96,True
+user072,Delhi,Overrated destination. attractions needs improvement.,negative,58,True
+user072,Ooty,Overrated destination. attractions needs improvement.,negative,47,True
+user072,Rishikesh,Beautiful activities and excellent hospitality. Perfect for solo travelers.,positive,73,True
+user072,Goa,Beautiful facilities and excellent hospitality. Perfect for adventure seekers.,positive,46,True
+user072,Udaipur,Beautiful service and excellent hospitality. Perfect for solo travelers.,positive,63,True
+user073,Darjeeling,Average experience. scenery could be better.,neutral,7,True
+user073,Kerala,Amazing attractions! The activities was absolutely wonderful. Highly recommend for couples.,positive,17,False
+user073,Shimla,Expected better hospitality considering the hype.,negative,21,False
+user073,Hampi,Decent food. The ambiance was okay but nothing special.,neutral,49,True
+user073,Jaipur,Overrated destination. hospitality needs improvement.,negative,74,True
+user073,Varanasi,Standard Varanasi visit. ambiance was acceptable.,neutral,58,True
+user073,Manali,Average experience. accommodation could be better.,neutral,69,True
+user073,Delhi,Expected better scenery considering the hype.,negative,52,True
+user073,Leh-Ladakh,Amazing food! The activities was absolutely wonderful. Highly recommend for families.,positive,70,False
+user073,Rishikesh,Decent food. The facilities was okay but nothing special.,neutral,88,True
+user073,Mumbai,Amazing attractions! The activities was absolutely wonderful. Highly recommend for couples.,positive,76,False
+user074,Hampi,Disappointing attractions. The views was not up to the mark.,negative,52,True
+user074,Leh-Ladakh,Beautiful activities and excellent hospitality. Perfect for solo travelers.,positive,64,False
+user074,Jaipur,Standard Jaipur visit. ambiance was acceptable.,neutral,29,True
+user074,Varanasi,Poor views and crowded scenery. Not recommended for solo travelers.,negative,82,True
+user074,Udaipur,Decent cleanliness. The service was okay but nothing special.,neutral,81,False
+user074,Ooty,Average experience. accommodation could be better.,neutral,11,True
+user074,Kerala,Outstanding Kerala visit. accommodation was incredible.,positive,24,True
+user074,Rishikesh,Decent attractions. The views was okay but nothing special.,neutral,56,True
+user075,Delhi,Overrated destination. accommodation needs improvement.,negative,69,True
+user075,Goa,Outstanding Goa visit. scenery was incredible.,positive,89,True
+user075,Varanasi,Disappointing hospitality. The views was not up to the mark.,negative,66,True
+user075,Shimla,Expected better attractions considering the hype.,negative,23,True
+user075,Kerala,Overrated destination. food needs improvement.,negative,43,True
+user076,Jaipur,Outstanding Jaipur visit. attractions was incredible.,positive,42,True
+user076,Ooty,Standard Ooty visit. views was acceptable.,neutral,15,True
+user076,Shimla,Disappointing hospitality. The ambiance was not up to the mark.,negative,22,False
+user076,Darjeeling,Decent scenery. The service was okay but nothing special.,neutral,62,False
+user076,Hampi,Fantastic experience at Hampi. The cleanliness exceeded expectations.,positive,73,False
+user076,Rishikesh,Beautiful ambiance and excellent hospitality. Perfect for solo travelers.,positive,22,False
+user076,Delhi,Fantastic experience at Delhi. The cleanliness exceeded expectations.,positive,1,True
+user077,Mumbai,Poor activities and crowded scenery. Not recommended for couples.,negative,82,True
+user077,Hampi,Beautiful culture and excellent food. Perfect for couples.,positive,57,True
+user077,Rishikesh,Amazing attractions! The ambiance was absolutely wonderful. Highly recommend for adventure seekers.,positive,48,True
+user077,Goa,Fantastic experience at Goa. The food exceeded expectations.,positive,46,True
+user077,Manali,Expected better scenery considering the hype.,negative,58,False
+user077,Varanasi,Decent accommodation. The facilities was okay but nothing special.,neutral,50,True
+user077,Ooty,Fantastic experience at Ooty. The attractions exceeded expectations.,positive,15,True
+user077,Darjeeling,Disappointing cleanliness. The activities was not up to the mark.,negative,98,False
+user078,Darjeeling,Outstanding Darjeeling visit. scenery was incredible.,positive,76,False
+user078,Leh-Ladakh,Standard Leh-Ladakh visit. service was acceptable.,neutral,54,True
+user078,Varanasi,Amazing accommodation! The views was absolutely wonderful. Highly recommend for couples.,positive,82,False
+user078,Udaipur,Beautiful facilities and excellent accommodation. Perfect for adventure seekers.,positive,51,True
+user078,Delhi,Outstanding Delhi visit. attractions was incredible.,positive,83,False
+user079,Varanasi,Outstanding Varanasi visit. scenery was incredible.,positive,56,True
+user079,Kerala,Standard Kerala visit. facilities was acceptable.,neutral,45,True
+user079,Goa,Overrated destination. scenery needs improvement.,negative,36,False
+user079,Ooty,Expected better hospitality considering the hype.,negative,22,True
+user079,Delhi,Overrated destination. cleanliness needs improvement.,negative,75,False
+user079,Manali,Expected better food considering the hype.,negative,38,True
+user079,Udaipur,Beautiful service and excellent scenery. Perfect for couples.,positive,43,True
+user080,Shimla,Average experience. scenery could be better.,neutral,84,True
+user080,Udaipur,Overrated destination. scenery needs improvement.,negative,93,True
+user080,Ooty,Amazing hospitality! The culture was absolutely wonderful. Highly recommend for families.,positive,88,True
+user080,Goa,Expected better cleanliness considering the hype.,negative,92,True
+user080,Hampi,Overrated destination. accommodation needs improvement.,negative,48,True
+user080,Rishikesh,Amazing hospitality! The activities was absolutely wonderful. Highly recommend for families.,positive,33,True
+user080,Darjeeling,Outstanding Darjeeling visit. cleanliness was incredible.,positive,18,False
+user080,Leh-Ladakh,Amazing attractions! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,65,True
+user080,Varanasi,Overrated destination. scenery needs improvement.,negative,19,True
+user080,Manali,Amazing attractions! The activities was absolutely wonderful. Highly recommend for families.,positive,94,False
+user081,Agra,Amazing attractions! The facilities was absolutely wonderful. Highly recommend for families.,positive,24,True
+user081,Shimla,Amazing food! The culture was absolutely wonderful. Highly recommend for families.,positive,5,True
+user081,Goa,Amazing scenery! The activities was absolutely wonderful. Highly recommend for families.,positive,97,True
+user081,Jaipur,Overrated destination. scenery needs improvement.,negative,2,True
+user081,Mumbai,Beautiful activities and excellent attractions. Perfect for solo travelers.,positive,19,False
+user081,Varanasi,Decent accommodation. The culture was okay but nothing special.,neutral,88,False
+user081,Leh-Ladakh,Outstanding Leh-Ladakh visit. scenery was incredible.,positive,36,True
+user081,Udaipur,Average experience. scenery could be better.,neutral,47,False
+user081,Manali,Decent attractions. The facilities was okay but nothing special.,neutral,76,True
+user082,Jaipur,Beautiful activities and excellent scenery. Perfect for adventure seekers.,positive,46,True
+user082,Ooty,Decent attractions. The facilities was okay but nothing special.,neutral,68,True
+user082,Manali,Outstanding Manali visit. scenery was incredible.,positive,50,True
+user082,Rishikesh,Amazing accommodation! The activities was absolutely wonderful. Highly recommend for families.,positive,11,True
+user082,Mumbai,Decent attractions. The service was okay but nothing special.,neutral,29,True
+user082,Leh-Ladakh,Fantastic experience at Leh-Ladakh. The accommodation exceeded expectations.,positive,95,True
+user082,Varanasi,Standard Varanasi visit. views was acceptable.,neutral,69,True
+user082,Goa,Amazing food! The views was absolutely wonderful. Highly recommend for couples.,positive,64,True
+user082,Kerala,Standard Kerala visit. facilities was acceptable.,neutral,73,False
+user083,Delhi,Fantastic experience at Delhi. The food exceeded expectations.,positive,80,False
+user083,Agra,Decent cleanliness. The ambiance was okay but nothing special.,neutral,84,True
+user083,Varanasi,Average experience. attractions could be better.,neutral,4,True
+user083,Mumbai,Fantastic experience at Mumbai. The accommodation exceeded expectations.,positive,0,True
+user083,Udaipur,Beautiful activities and excellent hospitality. Perfect for couples.,positive,89,True
+user083,Goa,Average experience. attractions could be better.,neutral,96,True
+user084,Ooty,Average experience. attractions could be better.,neutral,42,True
+user084,Darjeeling,Outstanding Darjeeling visit. cleanliness was incredible.,positive,22,False
+user084,Agra,Standard Agra visit. facilities was acceptable.,neutral,37,True
+user084,Manali,Amazing scenery! The ambiance was absolutely wonderful. Highly recommend for solo travelers.,positive,38,True
+user084,Mumbai,Standard Mumbai visit. service was acceptable.,neutral,72,False
+user084,Hampi,Amazing hospitality! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,78,False
+user084,Shimla,Average experience. hospitality could be better.,neutral,19,True
+user084,Goa,Outstanding Goa visit. scenery was incredible.,positive,47,True
+user084,Leh-Ladakh,Expected better accommodation considering the hype.,negative,98,True
+user084,Jaipur,Fantastic experience at Jaipur. The cleanliness exceeded expectations.,positive,49,True
+user085,Leh-Ladakh,Amazing accommodation! The culture was absolutely wonderful. Highly recommend for couples.,positive,39,True
+user085,Rishikesh,Expected better scenery considering the hype.,negative,52,False
+user085,Ooty,Disappointing cleanliness. The facilities was not up to the mark.,negative,59,True
+user085,Udaipur,Overrated destination. scenery needs improvement.,negative,34,True
+user085,Kerala,Beautiful facilities and excellent attractions. Perfect for couples.,positive,44,True
+user085,Goa,Decent attractions. The views was okay but nothing special.,neutral,56,True
+user085,Delhi,Poor facilities and crowded accommodation. Not recommended for families.,negative,31,True
+user085,Varanasi,Overrated destination. cleanliness needs improvement.,negative,95,False
+user085,Jaipur,Fantastic experience at Jaipur. The food exceeded expectations.,positive,35,True
+user086,Darjeeling,Beautiful culture and excellent cleanliness. Perfect for solo travelers.,positive,8,True
+user086,Udaipur,Standard Udaipur visit. activities was acceptable.,neutral,17,True
+user086,Mumbai,Disappointing food. The views was not up to the mark.,negative,50,False
+user086,Jaipur,Decent attractions. The ambiance was okay but nothing special.,neutral,61,True
+user086,Leh-Ladakh,Decent food. The service was okay but nothing special.,neutral,46,True
+user086,Kerala,Average experience. hospitality could be better.,neutral,91,True
+user086,Manali,Outstanding Manali visit. scenery was incredible.,positive,71,False
+user087,Goa,Decent cleanliness. The views was okay but nothing special.,neutral,5,False
+user087,Udaipur,Beautiful facilities and excellent cleanliness. Perfect for adventure seekers.,positive,18,False
+user087,Hampi,Amazing cleanliness! The views was absolutely wonderful. Highly recommend for families.,positive,2,True
+user087,Shimla,Disappointing hospitality. The activities was not up to the mark.,negative,81,True
+user087,Mumbai,Decent cleanliness. The culture was okay but nothing special.,neutral,21,True
+user087,Agra,Amazing food! The facilities was absolutely wonderful. Highly recommend for families.,positive,39,True
+user087,Rishikesh,Outstanding Rishikesh visit. food was incredible.,positive,8,False
+user087,Varanasi,Amazing attractions! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,21,True
+user087,Jaipur,Outstanding Jaipur visit. cleanliness was incredible.,positive,71,False
+user087,Delhi,Expected better accommodation considering the hype.,negative,64,False
+user087,Darjeeling,Disappointing hospitality. The culture was not up to the mark.,negative,64,True
+user088,Darjeeling,Fantastic experience at Darjeeling. The accommodation exceeded expectations.,positive,93,True
+user088,Agra,Fantastic experience at Agra. The attractions exceeded expectations.,positive,72,True
+user088,Hampi,Amazing food! The facilities was absolutely wonderful. Highly recommend for adventure seekers.,positive,6,False
+user088,Udaipur,Fantastic experience at Udaipur. The accommodation exceeded expectations.,positive,84,False
+user088,Goa,Outstanding Goa visit. scenery was incredible.,positive,1,True
+user089,Hampi,Average experience. cleanliness could be better.,neutral,48,True
+user089,Ooty,Standard Ooty visit. service was acceptable.,neutral,73,True
+user089,Shimla,Outstanding Shimla visit. attractions was incredible.,positive,18,False
+user089,Kerala,Beautiful service and excellent attractions. Perfect for couples.,positive,6,True
+user089,Rishikesh,Amazing scenery! The ambiance was absolutely wonderful. Highly recommend for couples.,positive,50,True
+user089,Goa,Outstanding Goa visit. food was incredible.,positive,26,True
+user089,Leh-Ladakh,Fantastic experience at Leh-Ladakh. The cleanliness exceeded expectations.,positive,71,False
+user089,Jaipur,Outstanding Jaipur visit. accommodation was incredible.,positive,33,True
+user090,Delhi,Average experience. accommodation could be better.,neutral,95,False
+user090,Ooty,Beautiful culture and excellent cleanliness. Perfect for solo travelers.,positive,91,False
+user090,Goa,Expected better scenery considering the hype.,negative,43,True
+user090,Agra,Outstanding Agra visit. cleanliness was incredible.,positive,42,True
+user090,Manali,Outstanding Manali visit. accommodation was incredible.,positive,34,True
+user090,Jaipur,Expected better attractions considering the hype.,negative,94,True
+user090,Udaipur,Standard Udaipur visit. facilities was acceptable.,neutral,20,True
+user090,Shimla,Disappointing food. The facilities was not up to the mark.,negative,27,False
+user090,Rishikesh,Amazing hospitality! The culture was absolutely wonderful. Highly recommend for adventure seekers.,positive,28,True
+user091,Ooty,Fantastic experience at Ooty. The hospitality exceeded expectations.,positive,25,True
+user091,Jaipur,Overrated destination. attractions needs improvement.,negative,87,True
+user091,Mumbai,Average experience. food could be better.,neutral,18,True
+user091,Udaipur,Expected better scenery considering the hype.,negative,97,True
+user091,Shimla,Fantastic experience at Shimla. The scenery exceeded expectations.,positive,98,True
+user091,Hampi,Overrated destination. cleanliness needs improvement.,negative,75,False
+user091,Darjeeling,Fantastic experience at Darjeeling. The scenery exceeded expectations.,positive,53,True
+user091,Rishikesh,Standard Rishikesh visit. service was acceptable.,neutral,0,True
+user092,Leh-Ladakh,Disappointing hospitality. The views was not up to the mark.,negative,63,True
+user092,Jaipur,Outstanding Jaipur visit. cleanliness was incredible.,positive,21,True
+user092,Manali,Average experience. food could be better.,neutral,48,True
+user092,Mumbai,Outstanding Mumbai visit. accommodation was incredible.,positive,44,True
+user092,Rishikesh,Amazing accommodation! The activities was absolutely wonderful. Highly recommend for solo travelers.,positive,11,True
+user092,Hampi,Fantastic experience at Hampi. The food exceeded expectations.,positive,78,True
+user092,Ooty,Outstanding Ooty visit. scenery was incredible.,positive,23,True
+user092,Delhi,Fantastic experience at Delhi. The accommodation exceeded expectations.,positive,41,True
+user092,Darjeeling,Fantastic experience at Darjeeling. The scenery exceeded expectations.,positive,52,True
+user093,Varanasi,Poor activities and crowded scenery. Not recommended for adventure seekers.,negative,31,False
+user093,Jaipur,Decent attractions. The culture was okay but nothing special.,neutral,69,False
+user093,Leh-Ladakh,Outstanding Leh-Ladakh visit. food was incredible.,positive,22,True
+user093,Hampi,Disappointing food. The activities was not up to the mark.,negative,0,False
+user093,Delhi,Beautiful service and excellent scenery. Perfect for families.,positive,28,True
+user093,Goa,Average experience. hospitality could be better.,neutral,98,True
+user093,Darjeeling,Beautiful culture and excellent scenery. Perfect for adventure seekers.,positive,51,False
+user093,Udaipur,Outstanding Udaipur visit. hospitality was incredible.,positive,33,True
+user093,Mumbai,Poor activities and crowded scenery. Not recommended for couples.,negative,85,True
+user093,Manali,Outstanding Manali visit. food was incredible.,positive,78,True
+user093,Kerala,Expected better scenery considering the hype.,negative,99,True
+user094,Darjeeling,Beautiful views and excellent scenery. Perfect for families.,positive,90,True
+user094,Rishikesh,Outstanding Rishikesh visit. cleanliness was incredible.,positive,34,False
+user094,Agra,Amazing cleanliness! The ambiance was absolutely wonderful. Highly recommend for adventure seekers.,positive,79,False
+user094,Shimla,Beautiful ambiance and excellent food. Perfect for adventure seekers.,positive,25,True
+user094,Leh-Ladakh,Average experience. scenery could be better.,neutral,36,True
+user094,Kerala,Decent hospitality. The ambiance was okay but nothing special.,neutral,16,False
+user094,Udaipur,Amazing scenery! The activities was absolutely wonderful. Highly recommend for couples.,positive,25,True
+user094,Ooty,Fantastic experience at Ooty. The hospitality exceeded expectations.,positive,91,True
+user095,Leh-Ladakh,Overrated destination. attractions needs improvement.,negative,91,True
+user095,Manali,Standard Manali visit. ambiance was acceptable.,neutral,4,True
+user095,Jaipur,Outstanding Jaipur visit. attractions was incredible.,positive,0,True
+user095,Varanasi,Decent hospitality. The culture was okay but nothing special.,neutral,14,True
+user095,Agra,Beautiful ambiance and excellent food. Perfect for solo travelers.,positive,75,True
+user095,Kerala,Disappointing scenery. The ambiance was not up to the mark.,negative,44,True
+user095,Rishikesh,Standard Rishikesh visit. views was acceptable.,neutral,14,True
+user095,Mumbai,Outstanding Mumbai visit. hospitality was incredible.,positive,51,True
+user095,Ooty,Fantastic experience at Ooty. The hospitality exceeded expectations.,positive,30,True
+user095,Hampi,Standard Hampi visit. facilities was acceptable.,neutral,17,True
+user096,Mumbai,Outstanding Mumbai visit. attractions was incredible.,positive,92,False
+user096,Manali,Beautiful service and excellent hospitality. Perfect for families.,positive,92,True
+user096,Leh-Ladakh,Poor views and crowded hospitality. Not recommended for adventure seekers.,negative,96,True
+user096,Kerala,Amazing scenery! The culture was absolutely wonderful. Highly recommend for adventure seekers.,positive,27,False
+user096,Shimla,Average experience. hospitality could be better.,neutral,92,True
+user096,Varanasi,Disappointing scenery. The facilities was not up to the mark.,negative,85,True
+user096,Udaipur,Poor activities and crowded accommodation. Not recommended for families.,negative,12,True
+user096,Darjeeling,Fantastic experience at Darjeeling. The scenery exceeded expectations.,positive,94,True
+user096,Agra,Expected better food considering the hype.,negative,76,True
+user096,Rishikesh,Poor ambiance and crowded food. Not recommended for couples.,negative,69,True
+user096,Delhi,Outstanding Delhi visit. attractions was incredible.,positive,35,True
+user096,Hampi,Average experience. hospitality could be better.,neutral,75,False
+user097,Jaipur,Disappointing accommodation. The facilities was not up to the mark.,negative,94,False
+user097,Manali,Average experience. hospitality could be better.,neutral,47,True
+user097,Mumbai,Average experience. scenery could be better.,neutral,85,True
+user097,Varanasi,Expected better food considering the hype.,negative,69,True
+user097,Agra,Fantastic experience at Agra. The food exceeded expectations.,positive,77,True
+user097,Hampi,Overrated destination. accommodation needs improvement.,negative,9,True
+user097,Kerala,Beautiful ambiance and excellent scenery. Perfect for families.,positive,99,True
+user097,Goa,Fantastic experience at Goa. The food exceeded expectations.,positive,10,False
+user097,Shimla,Amazing hospitality! The activities was absolutely wonderful. Highly recommend for families.,positive,30,False
+user097,Ooty,Disappointing cleanliness. The service was not up to the mark.,negative,50,True
+user097,Leh-Ladakh,Amazing accommodation! The culture was absolutely wonderful. Highly recommend for families.,positive,30,False
+user097,Udaipur,Fantastic experience at Udaipur. The accommodation exceeded expectations.,positive,26,False
+user098,Ooty,Overrated destination. hospitality needs improvement.,negative,1,True
+user098,Goa,Average experience. hospitality could be better.,neutral,64,True
+user098,Jaipur,Overrated destination. hospitality needs improvement.,negative,66,True
+user098,Manali,Beautiful ambiance and excellent attractions. Perfect for solo travelers.,positive,57,False
+user098,Udaipur,Overrated destination. hospitality needs improvement.,negative,92,False
+user098,Darjeeling,Beautiful facilities and excellent scenery. Perfect for solo travelers.,positive,2,False
+user098,Shimla,Beautiful culture and excellent hospitality. Perfect for couples.,positive,73,True
+user098,Varanasi,Beautiful views and excellent scenery. Perfect for couples.,positive,2,False
+user098,Leh-Ladakh,Amazing hospitality! The culture was absolutely wonderful. Highly recommend for solo travelers.,positive,58,True
+user099,Darjeeling,Outstanding Darjeeling visit. attractions was incredible.,positive,52,True
+user099,Leh-Ladakh,Amazing attractions! The culture was absolutely wonderful. Highly recommend for adventure seekers.,positive,54,True
+user099,Hampi,Expected better cleanliness considering the hype.,negative,88,True
+user099,Shimla,Expected better accommodation considering the hype.,negative,71,False
+user099,Udaipur,Beautiful facilities and excellent accommodation. Perfect for families.,positive,19,False
+user099,Jaipur,Amazing cleanliness! The service was absolutely wonderful. Highly recommend for couples.,positive,63,True
+user099,Delhi,Average experience. attractions could be better.,neutral,13,True
+user099,Rishikesh,Outstanding Rishikesh visit. accommodation was incredible.,positive,10,True
+user100,Mumbai,Fantastic experience at Mumbai. The scenery exceeded expectations.,positive,59,False
+user100,Ooty,Average experience. hospitality could be better.,neutral,2,False
+user100,Agra,Standard Agra visit. activities was acceptable.,neutral,47,True
+user100,Delhi,Expected better scenery considering the hype.,negative,88,True
+user100,Goa,Standard Goa visit. service was acceptable.,neutral,34,True
+user100,Manali,Overrated destination. food needs improvement.,negative,91,True
+user100,Kerala,Amazing cleanliness! The ambiance was absolutely wonderful. Highly recommend for families.,positive,12,True
+user100,Jaipur,Standard Jaipur visit. facilities was acceptable.,neutral,43,True
+user100,Varanasi,Beautiful views and excellent cleanliness. Perfect for families.,positive,15,False
+user100,Hampi,Outstanding Hampi visit. hospitality was incredible.,positive,3,False
+user100,Shimla,Beautiful culture and excellent attractions. Perfect for couples.,positive,84,True
