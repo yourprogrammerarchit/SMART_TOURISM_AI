@@ -1,27 +1,10 @@
 # Ignore virtual environment
-ai_env/
-venv/
 .venv/
-env/
+ai_env/
 
-# Python cache
+# Ignore Python cache
 __pycache__/
 *.pyc
-*.pyo
 
-# Ignore installed libraries
-Lib/
-Scripts/
-include/
-share/
-*.dist-info/
-
-# Ignore models
-models/*.pkl
-
-# Ignore datasets
-data/*.csv
-
-# Ignore IDE files
-.vscode/
-.idea/
+# Ignore system files
+.DS_Store
